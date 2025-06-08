@@ -11,7 +11,7 @@ LOGISTIC REGRESSION
     Accuracy,precision,Recall,F1-score
     confusion matrix
     classification report
-    ## Technologies
+  # Technologies
     # python
     # pandas,Numpy
     # Scikit learn
